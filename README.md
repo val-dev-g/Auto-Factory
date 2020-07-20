@@ -1,9 +1,9 @@
-Projet AUTO-FACTORY
+# Projet AUTO-FACTORY
 Ce projet sous le Framework Symfony est une application permettant de gérer des voitures.
 
 Divers points sont abordés:
 
-- Un formulaire filtrant une à plusieurs voitures selon l'année. Le résultat sera dans ce cas, une liste de voiture répondant aux conditions des filtres utilisés.
+- Un formulaire filtrant les voitures selon l'année
 
 - Un formulaire d'inscription.
 
@@ -13,4 +13,7 @@ Divers points sont abordés:
 
 - La librairie faker a été utilisée pour générer des fausses données aléatoires.
 
-Ce projet est accès backend afin de m'excercer sur les fondamantaux de Symfony.
+Cet excercice backend aborde les fondamantaux de Symfony.
+
+![autoScreen](https://user-images.githubusercontent.com/59091789/87955358-eba78a00-caad-11ea-8a56-9e7d57a6228c.PNG)
+
