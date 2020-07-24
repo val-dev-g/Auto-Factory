@@ -3,7 +3,7 @@ Ce projet sous le Framework Symfony est une application permettant de gérer des
 
 Divers points sont abordés:
 
-- Un formulaire filtrant les voitures selon l'année
+- Un formulaire filtrant les voitures selon l'année.
 
 - Un formulaire d'inscription.
 
