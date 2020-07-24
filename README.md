@@ -1,7 +1,7 @@
 # Projet AUTO-FACTORY
 Ce projet sous le Framework Symfony est une application permettant de gérer des voitures.
 
-Divers points sont abordés:
+Divers points sont abordés :
 
 - Un formulaire filtrant les voitures selon l'année.
 
